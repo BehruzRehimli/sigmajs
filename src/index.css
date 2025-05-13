@@ -17,5 +17,8 @@ body {
   min-height: 100vh;
 }
 .sigma-container *{
-  left:0
+  left:0;
+}
+.react-sigma {
+  background-color: green !important;
 }
